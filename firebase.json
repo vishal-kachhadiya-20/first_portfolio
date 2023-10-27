@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "vishal-portfolio-20",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
